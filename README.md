@@ -37,7 +37,3 @@ Course materials and assignment statements are not redistributed in accordance w
 Zongyu Mu (Zoey)
 Master’s in Computer Science @ Worcester Polytechnic Institute
 🔗 https://github.com/ZoeyMu722?utm_source=chatgpt.com
-
-Zongyu Mu (Zoey)
-Master’s in Computer Science @ Worcester Polytechnic Institute
-🔗 GitHub Profile
