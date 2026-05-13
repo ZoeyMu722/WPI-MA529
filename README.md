@@ -23,6 +23,7 @@ Python · NumPy · PyTorch · Probability Theory · Markov Chains · Monte Carlo
  ┣ 📄 hw4-ZongyuMu.pdf
  ┣ 📄 hw1-ZongyuMu-q6.pdf
  ┣ 📄 deep_hedging_report.pdf
+ ┣ 📄 deep_hedging_presentation.pptx
  ┗ 📄 README.md
 
 Each file contains mathematical derivations, simulations, experimental results, and project documentation.
